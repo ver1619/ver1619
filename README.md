@@ -28,6 +28,28 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
+## 📊 Stats
+
+<div align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=ver1619&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+## 💬 Connect with me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vernekarswayam_97)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Swimming_Dig_3215)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/VernekarSWM97)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swmvernekar2005@gmail.com)
+
+</div>
+
+---
+
+Last Updated : 16-05-2026<br>
+Credits : [Swayam Vernekar](https://github.com/YOUR_USERNAME)
+
 <!--
 **ver1619/ver1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
