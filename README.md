@@ -15,7 +15,7 @@
 📈  I'm on track learning and exploring more about **database systems**, **data engineering** and **storage internals**<br>
 ⭐  Passionate and love working with **DATA**<br>
 🧠  Philosophy : Learn by Building<br>
-✉️  You can shoot me an email at swmvernekar2005@gmail.com! I'll try to respond as soon as I can.
+✉️  You can shoot me an email at swmvernekar2005@gmail.com!
 
 ## 🛠  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,6 +38,7 @@
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/swayam-vernekar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vernekarswayam_97)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Swimming_Dig_3215)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/VernekarSWM97)
@@ -48,7 +49,7 @@
 ---
 
 Last Updated : 16-05-2026<br>
-Credits : [Swayam Vernekar](https://github.com/YOUR_USERNAME)
+Credits : [Swayam Vernekar](https://github.com/ver1619)
 
 <!--
 **ver1619/ver1619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
