@@ -34,6 +34,10 @@
 <img height="180em" src="https://streak-stats.demolab.com?user=ver1619&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ver1619&theme=tokyonight" />
+</p>
+
 ## 💬 Connect with me
 
 <div align="center">
