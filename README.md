@@ -10,16 +10,13 @@
 </div>
 
 ## 👨🏻‍💻  About Me
-🎓  I'm currently a 3rd year B.E undergrad in Artificial Intelligence and Machine Learning<br>
-💼  Currently preparing for placements (**Open to work**)<br>
-📈  I'm on track learning and exploring more about **database systems**, **data engineering** and **storage internals**<br>
-⭐  Passionate and love working with **DATA**<br>
+🎓  I'm currently a final year B.E undergrad in Artificial Intelligence and Machine Learning<br>
+📈  I'm on track learning and exploring more about **RAG systems** and **Applied AI**<br>
 🧠  Philosophy : Learn by Building<br>
 ✉️  You can shoot me an email at swmvernekar2005@gmail.com!
 
 ## 🛠  Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -27,6 +24,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Turbovec](https://img.shields.io/badge/TurboVec-4B32C3?style=for-the-badge&logo=vectorworks&logoColor=white)
+![BM25S](https://img.shields.io/badge/BM25S-2E8B57?style=for-the-badge&logo=bookstack&logoColor=white)
 
 ## 📊 Stats
 
